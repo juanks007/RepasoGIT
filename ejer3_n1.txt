@@ -6,3 +6,7 @@
 •	Crea otro commit
 •	Haz merge de la rama bugFix a main usando git merge
 c0
+
+$ git branch bugFix1
+$ git checkout bugFix1
+$ git commit
