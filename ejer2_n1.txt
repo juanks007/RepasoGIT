@@ -1,0 +1,2 @@
+Crea una nueva rama llamada bugFix y cámbiate a ella.
+C0
