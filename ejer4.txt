@@ -3,3 +3,5 @@ Para completar este nivel, haz lo siguiente:
 •	Crea un commit
 •	Vuelve a la rama main y crea otro commit
 •	Haz checkout en bugFix otra vez y haz rebase sobre main
+ nuevamente
+ 
